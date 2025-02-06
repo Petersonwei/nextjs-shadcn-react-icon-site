@@ -1,6 +1,4 @@
-# Mascot Quotation System
-
-A Next.js application TypeScript, Tailwind CSS, react-icons and shadcn/ui components.
+# A Next.js application TypeScript, Tailwind CSS, react-icons and shadcn/ui components.
 
 ## 🚀 Getting Started
 
