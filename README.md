@@ -9,7 +9,7 @@ pnpm install
 
 2. Start the development server:
 ```bash
-pnpm dev
+pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
@@ -45,6 +45,7 @@ pnpm dlx shadcn-ui@latest add input
 pnpm dlx shadcn-ui@latest add card
 pnpm dlx shadcn-ui@latest add select
 pnpm dlx shadcn-ui@latest add label
+other components...
 ```
 
 ## 📚 Useful Links
@@ -52,3 +53,4 @@ pnpm dlx shadcn-ui@latest add label
 - [Next.js Documentation](https://nextjs.org/docs)
 - [shadcn/ui Documentation](https://ui.shadcn.com)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [React-icon](https://www.npmjs.com/package/react-icons)
