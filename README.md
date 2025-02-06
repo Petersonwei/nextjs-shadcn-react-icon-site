@@ -1,4 +1,4 @@
-# A Next.js application TypeScript, Tailwind CSS, react-icons and shadcn/ui components.
+# A Next.js application setup with TypeScript, Tailwind CSS, react-icons and shadcn/ui components.
 
 ## 🚀 Getting Started
 
